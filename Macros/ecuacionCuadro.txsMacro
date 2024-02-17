@@ -1,0 +1,14 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "ECUACIÓN EN RECUADRO",
+    "shortcut": "",
+    "tag": [
+        "\\[ \\shadowbox{$  $} \\]"
+    ],
+    "trigger": "EQN"
+}
